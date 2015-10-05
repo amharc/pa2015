@@ -1,0 +1,10 @@
+*.o
+*.debug
+*.release
+*.in
+*.out
+*.myout
+*.s
+*.h
+*.swp
+*.ps

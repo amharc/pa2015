@@ -1,0 +1,1 @@
+common/test_all.sh
